@@ -1,0 +1,2 @@
+# goldcasino
+Static site: goldcasino
